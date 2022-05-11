@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2929cf8f-4e21-45c6-8ef3-bcaac429c93a": {
+      "ProjectGuid": "2929cf8f-4e21-45c6-8ef3-bcaac429c93a",
+      "DisplayName": "SignalrD1Core",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

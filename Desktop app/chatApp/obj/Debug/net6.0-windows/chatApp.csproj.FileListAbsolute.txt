@@ -1,0 +1,66 @@
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\chatApp.exe
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\chatApp.deps.json
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\chatApp.runtimeconfig.json
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\chatApp.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\chatApp.pdb
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.csproj.AssemblyReference.cache
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.Form1.resources
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.csproj.GenerateResource.cache
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.AssemblyInfoInputs.cache
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.AssemblyInfo.cs
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.csproj.CoreCompileInputs.cache
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.csproj.CopyComplete
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\obj\Debug\net6.0-windows\refint\chatApp.dll
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.pdb
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.genruntimeconfig.cache
+C:\Users\ITI\Desktop\Signalr Smart 42\chatApp\chatApp\obj\Debug\net6.0-windows\ref\chatApp.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\chatApp.exe
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\chatApp.deps.json
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\chatApp.runtimeconfig.json
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\chatApp.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\ref\chatApp.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\chatApp.pdb
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.csproj.AssemblyReference.cache
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.Form1.resources
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.csproj.GenerateResource.cache
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.AssemblyInfoInputs.cache
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.AssemblyInfo.cs
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.csproj.CoreCompileInputs.cache
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.csproj.CopyComplete
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\obj\Debug\net6.0-windows\ref\chatApp.dll
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.pdb
+D:\ITI_Data\Coursers\SignalR\D02\chatApp\chatApp\obj\Debug\net6.0-windows\chatApp.genruntimeconfig.cache

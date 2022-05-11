@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <input type="text" id="txt" />
+    <input type="button" value ="send" onclick="send()" />
+    <br />
+      <input type="text" id="gtxt" />
+    <input type="button" value ="join" onclick="join()" />
+    <input type="button" value ="send to group" onclick="sengroup()" />
+    <ul id="ul">
+
+    </ul>
+    </div>
+
+@section Scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/6.0.1/signalr.js"></script>
+<script>
+    name =prompt("enter your name");
+
+ con = new signalR.HubConnectionBuilder().withUrl("/chat").build();//define conn, createprox
+
+con.start();
+
+con.on("newmess",function(m){
+    var item =document.createElement("li");
+    item.appendChild(document.createTextNode(m.name+":"+m.txt));
+    document.getElementById("ul").appendChild(item);
+
+})
+con.on("newmember",function(g ,n){
+    var item =document.createElement("li");
+    item.appendChild(document.createTextNode(n+" joinned "+g));
+    document.getElementById("ul").appendChild(item);
+
+})
+con.on("newgroupmessage",function(g,m ,n){
+    var item =document.createElement("li");
+    item.appendChild(document.createTextNode(n+"("+g+"):"+m));
+    document.getElementById("ul").appendChild(item);
+
+})
+
+function send (){
+    var obj={
+        name:name,
+        txt:document.getElementById("txt").value
+    };
+
+    con.invoke("sendmessage",obj);
+}
+
+function join (){
+    con.invoke("joingroup",document.getElementById("gtxt").value ,name);
+}
+
+function sengroup(){
+    con.invoke("senttogroup",document.getElementById("gtxt").value,document.getElementById("txt").value,name);
+}
+</script>
+}
